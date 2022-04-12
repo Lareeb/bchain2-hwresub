@@ -119,3 +119,6 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+<img width="1164" alt="159137881-fa3f8217-6e0e-47b4-964e-5179ae76a82d" src="https://user-images.githubusercontent.com/92758869/162872067-d9392269-6ad1-4160-ad0d-bf5267bf5669.png">
+<img width="1169" alt="159137888-267396db-964a-4999-921e-9dfaefdcf8c0" src="https://user-images.githubusercontent.com/92758869/162872085-942988c6-6949-473e-9ec2-0212a3f622f4.png">
+<img width="1166" alt="159137898-7e0c6d76-1805-4700-bf3c-0864eefda257" src="https://user-images.githubusercontent.com/92758869/162872090-4798ecf2-230e-4a1d-8208-901d9be9414d.png">
