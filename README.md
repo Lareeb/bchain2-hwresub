@@ -117,6 +117,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
+![162596916-2f0331f5-1c76-4ba8-a0e9-19de20e73493](https://user-images.githubusercontent.com/92758869/162872342-6865a9c5-08e8-491c-9957-9e4b6f8588db.png)
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 <img width="1164" alt="159137881-fa3f8217-6e0e-47b4-964e-5179ae76a82d" src="https://user-images.githubusercontent.com/92758869/162872067-d9392269-6ad1-4160-ad0d-bf5267bf5669.png">
